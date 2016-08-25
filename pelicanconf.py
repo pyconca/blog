@@ -14,7 +14,7 @@ DEFAULT_LANG = u'en'
 
 TYPOGRIFY = True
 
-# THEME = './theme/'
+THEME = './theme/'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
